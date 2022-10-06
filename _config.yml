@@ -1,14 +1,16 @@
 # Build settings
-theme: jekyll-theme-architect
-#Cayman
-#Dinky
-#Hacker
-#Leap day
-#Merlot
-#Midnight
-#Minima
-#Minimal
-#Modernist
-#Slate
-#Tactile
-#Time machine
+theme: jekyll-theme-time-machine
+#Theme options:
+#jekyll-theme-architect
+#jekyll-theme-cayman
+#jekyll-theme-dinky
+#jekyll-theme-hacker
+#jekyll-theme-leap-day
+#jekyll-theme-merlot
+#jekyll-theme-midnight
+#minima
+#jekyll-theme-minimal
+#jekyll-theme-modernist
+#jekyll-theme-slate
+#jekyll-theme-tactile
+#jekyll-theme-time-machine
